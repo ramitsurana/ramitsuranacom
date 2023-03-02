@@ -4,5 +4,5 @@ import { defineConfig } from 'astro/config';
 
 export default defineConfig({
     site: 'https://ramitsurana.github.io',
-    base: '/ramitsuranacom/',
+    base: '/ramitsuranacom',
   })
